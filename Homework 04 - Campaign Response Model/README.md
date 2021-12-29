@@ -7,10 +7,6 @@ The datasets containing 2 file.
 The features are generated for recency, frequency, monetary, AOU and ticket_size before train model.
 The data is imbalance and Response rate in the dataset is 9.4% as below.
 ![image](https://user-images.githubusercontent.com/47063720/147652572-7bf4c5a1-5854-4772-992c-9928850eb9b5.png)
-![image](https://user-images.githubusercontent.com/47063720/147652663-554337f8-b9a7-45aa-b171-d627fd33ef36.png)
-![image](https://user-images.githubusercontent.com/47063720/147652677-538ffa34-2b9b-43cd-bc2e-a8ad8297a747.png)
-![image](https://user-images.githubusercontent.com/47063720/147652693-fca06951-4b9f-4881-84a9-0649e0e412f6.png)
-![image](https://user-images.githubusercontent.com/47063720/147652703-671d0e9f-1da0-42b8-b281-79f2a00d5f00.png)
 
 ## EDA
 The features should be analysis to be ensure the characteristics
@@ -23,5 +19,6 @@ The model parameter estimation depend on the type of model. The parameters are n
 The optimal parameters sets were chosen by analyzing the model predictive power of train and test sample to aim at a model with strong predictive power and generalization.
 For Cross validation using K-fold (k=3)
 
+## Evaluate Model
 ROC Curve of Train and Test data
 ![image](https://user-images.githubusercontent.com/47063720/147653419-002edbfd-c04a-45d8-9257-d9a00a1e71a4.png)
