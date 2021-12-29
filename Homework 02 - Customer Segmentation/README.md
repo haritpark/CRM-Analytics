@@ -19,4 +19,5 @@ Decide to choose 4 clusters from Elbow and Silhouette Method
 
 
 The Characteristics for each Clusters may be interpret and describe how to action to customer. The detail for each clusters as below.
-![image](https://user-images.githubusercontent.com/47063720/147650771-80b2d776-0e5d-4f61-a31c-c5d0415e341a.png)
+![image](https://user-images.githubusercontent.com/47063720/147650867-33c2b12f-57c0-45e9-878c-b9dc392d81d5.png)
+
