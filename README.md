@@ -1,5 +1,5 @@
 # BADS7105-CRM-Analytics
-## BADS7105-CRM-Analytics
+## Harit Pisarnpruek 6220422062
 #### Homework 01 - CLV Dashboard
 #### Homework 02 - Customer Segmentation
 #### Homework 03 - Product Recommendation
