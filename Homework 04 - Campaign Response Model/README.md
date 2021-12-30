@@ -47,5 +47,6 @@ SHAP value explain individual predictions and show the impact of having a certai
 ![image](https://user-images.githubusercontent.com/47063720/147676642-968c5467-7150-4384-9b9c-2c304ac0c54b.png)
 ![image](https://user-images.githubusercontent.com/47063720/147676649-1cb550d5-5c8d-4e42-a1b6-9b0a584c02ca.png)
 
-
+#### Google Colab :
+https://drive.google.com/file/d/1Rs1MsK7C59n4OC12ZH1vjSr4RXgCRCWe/view?usp=sharing
 
