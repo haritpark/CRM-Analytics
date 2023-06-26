@@ -1,10 +1,10 @@
-# BADS7105-CRM-Analytics
-## Harit Pisarnpruek 6220422062
-- [x] Homework 01 - CLV Dashboard
-- [x] Homework 02 - Customer Segmentation
-- [x] Homework 03 - Product Recommendation
-- [x] Homework 04 - Campaign Response Model
-- [x] Homework 05 - A/B Testing
-- [x] Homework 06 - Churn Prediction Model
-- [x] Homework 07 - Voice of Customer
-- [x] Homework 08 - Design Thinking
+# CRM-Analytics
+## Harit Pisarnpruek (Park)
+- [x] CLV Dashboard
+- [x] Customer Segmentation
+- [x] Product Recommendation
+- [x] Campaign Response Model
+- [x] A/B Testing
+- [x] Churn Prediction Model
+- [x] Voice of Customer
+- [x] Design Thinking
